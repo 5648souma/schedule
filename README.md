@@ -4,7 +4,7 @@
 ## 技術スタック
 - Python / Flask
 - SQLiete3
-- HTML / CSS / Jinja2
+- HTML / CSS
 
 
 
