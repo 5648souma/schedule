@@ -23,7 +23,7 @@ if(c==5){
 else console.log('else');
 console.log(d);
 
-const test=(x)=>{
+const test=(x)=>{//関数名に関数を入れるみたいな
     if(x==5){
         d=9;
     }
